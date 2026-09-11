@@ -1,0 +1,29 @@
+int 
+String -> wording 
+boolean -> True/False
+Float -> 10.00
+
+age = 50
+ |
+variable Name
+
+
+name = "   " 
+
+
+a = 10
+b= 20
+
+== -> a ==b 
+!= -> not EqualTo 
+< -> less than 
+<= -> less than or equal to 
+> -> greater than 
+>= -> greater than or equalTo 
+
+
+
+
+
+
+
